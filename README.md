@@ -1,3 +1,4 @@
+This fork has been heavily modified to support the Genesys RPG when played in the FFG Star Wars system setting. A list of modifications can be found at the bottom of the description.
 
 # Star Wars FFG Alternative UI
 
@@ -72,3 +73,13 @@ Changelog are available [here](https://github.com/TeddyBears/StarWarsFFG-alterna
 # Wiki
 
 See the [wiki](https://github.com/TeddyBears/StarWarsFFG-alternative-UI/wiki/Home) for screenshots and more details about the new dispatch into sheets
+
+# Genesys Modifications
+Subcategories have been added to the following items and displayed as separate lists on the actor. List modifications are done via Configure Settings:
+
+<img src="https://github.com/user-attachments/assets/73e820ce-c26b-41a3-9fba-46e5228ce0d3" width=400>
+
+Categories are displayed in their respective areas on the actor sheet.
+
+The specialization item template now functions in the same way as the talent template but without the tier or rank fields.
+
