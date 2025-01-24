@@ -83,3 +83,21 @@ Categories are displayed in their respective areas on the actor sheet.
 
 The specialization item template now functions in the same way as the talent template but without the tier or rank fields.
 
+
+<img src="https://github.com/user-attachments/assets/f14c52f1-8d34-45a1-b013-d7a7cab83062" width=400>
+
+
+### **Equipment**
+
+<img src="https://github.com/user-attachments/assets/e7723afa-1044-4246-a952-88252af8de82" width=400>
+
+
+### **Critical Injuries**
+
+<img src="https://github.com/user-attachments/assets/1bdd1355-eed2-4a9f-b16c-abf40bc8bd65" width=400>
+
+
+
+
+
+
