@@ -1,4 +1,4 @@
-This fork has been heavily modified to support the Genesys RPG when played in the FFG Star Wars system setting. A list of modifications can be found at the bottom of the description.
+All stated changes are pending. This fork has been heavily modified to support the Genesys RPG when played in the FFG Star Wars system setting. A list of modifications can be found at the bottom of the description.
 
 # Star Wars FFG Alternative UI
 
